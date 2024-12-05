@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9Ng2dqm5U2QFqJPh4JuEnV9Q/MEpAU1GVmWkgz+t2/c=",
+  "Source": "BackgroundTask_Quartz",
+  "BasePath": "_content/BackgroundTask_Quartz",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

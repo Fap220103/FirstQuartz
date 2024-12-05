@@ -1,0 +1,7 @@
+{
+  "QuartzSettings": {
+    "StartAt": "2024-12-01T08:00:00",
+    "EndAt": "2024-12-12T18:00:00",
+    "CronExpression": "0/8 * * * * ?"
+  }	
+}
